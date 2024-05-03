@@ -1,0 +1,15 @@
+.card {
+    position: relative;
+    overflow: hidden; /* Ensures the pseudo-element does not overflow the card */
+  }
+  
+  .inner-border {
+    position: absolute;
+    top: 14px; /* Adjust this value based on your needs */
+    left: 14px; /* Adjust this value based on your needs */
+    right: 14px; /* Adjust this value based on your needs */
+    bottom: 14px; /* Adjust this value based on your needs */
+    border: 2px solid white; /* Sets the border color and width */
+    pointer-events: none; /* Ensures click events are not affected by the pseudo-element */
+  }
+  

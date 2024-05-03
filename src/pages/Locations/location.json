@@ -1,0 +1,204 @@
+{
+    "Status": "success",
+    "Data": {
+        "items": [
+      {
+        "key":"1",
+        "label":"Austin, TX",
+        "loc1":"11104 Domain Drive",
+        "loc2":"Austin, TX 78758",
+        "img":"https://diamondsdirect.com/mm-images/austing-detail-zue8ch0o.jpeg?width=768"
+        
+      },
+      {
+        "key":"2",
+        "label":"Aventura ,FL",
+        "loc1":"19001 Biscayne Blvd",
+        "loc2":"Aventura ,Florida 33180",
+        "img":"https://diamondsdirect.com/mm-images/aventuraskyline2-0cnurz1a.jpg?width=768"
+      },
+      {
+        "key":"3",
+        "label":"Birmingham , AL",
+        "loc1":"2800 Cahaba Village Pl, Suite 150",
+        "loc2":"Birmingham, AL 35243",
+        "img":"https://diamondsdirect.com/mm-images/brimingham-detail-99oe1832.jpeg?width=768"
+      },
+      {
+        "key":"4",
+        "label":"Boca Raton, FL",
+        "loc1":"1400 Glades Road",
+        "loc2":"Boca Raton, FL 33431",
+        "img":"https://diamondsdirect.com/mm-images/store-location-img3-q0014ubx.jpeg?width=768"
+      },
+      {
+        "key":"5",
+        "label":"Boulder, CO",
+        "loc1":"1900 15th Street",
+        "loc2":"Boulder, CO 80302",
+        "img":"https://diamondsdirect.com/mm-images/store-location-img3-q0014ubx.jpeg?width=768"
+      },
+      {
+        "key":"6",
+        "label":"Brentwood, TN",
+        "loc1":"330 Franklin Road",
+        "loc2":"Brentwood, TN 37027",
+        "img":"https://diamondsdirect.com/mm-images/charloten-detail-5j41w3vj.jpeg?width=768"
+      },
+      {
+        "key":"7",
+        "label":"Bridgewater, NJ",
+        "loc1":"400 Commons Way",
+        "loc2":"Bridgewater, NJ 08807",
+        "img":"https://diamondsdirect.com/mm-images/charloten-detail-5j41w3vj.jpeg?width=768"
+      },
+      {
+        "key":"8",
+        "label":"Brookfield, WI",
+        "loc1":"95 N. Moorland Road",
+        "loc2":"Brookfield, WI 53005",
+        "img":"https://diamondsdirect.com/mm-images/chicago-skylines2-76e6l4sq.jpeg?width=768"
+      },
+      {
+        "key":"9",
+        "label":"Burlington, MA",
+        "loc1":"75 Middlesex Turnpike",
+        "loc2":"Burlington, MA 01803",
+        "img":"https://diamondsdirect.com/mm-images/chicago-skylines2-76e6l4sq.jpeg?width=768"
+      },
+      {
+        "key":"10",
+        "label":"Carmel, IN",
+        "loc1":"14390 Clay Terrace Blvd",
+        "loc2":"Carmel, IN 46032",
+        "img":"https://diamondsdirect.com/mm-images/chicago-skylines2-76e6l4sq.jpeg?width=768"
+      },
+      {
+        "key":"11",
+        "label":"Cedar Park, TX",
+        "loc1":"11200 Lakeline Mall Drive",
+        "loc2":"Cedar Park, TX 78613",
+        "img":"https://diamondsdirect.com/mm-images/columbus-detail-hzzmqpsa.jpeg?width=768"
+      },
+      {
+        "key":"12",
+        "label":"Chandler, AZ",
+        "loc1":"3111 W. Chandler Blvd",
+        "loc2":"Chandler, AZ 85226",
+        "img":"https://diamondsdirect.com/mm-images/dallas-detail-yr6dd1ag.jpeg?width=768"
+      },
+      {
+        "key":"13",
+        "label":"Charlotte, NC",
+        "loc1":"6801 Northlake Mall Drive",
+        "loc2":"Charlotte, NC 28216",
+        "img":"https://diamondsdirect.com/mm-images/grenville-detail-n7sl28xe.jpeg?width=768"
+      },
+      {
+        "key":"14",
+        "label":"Chattanooga, TN",
+        "loc1":"2100 Hamilton Place Blvd",
+        "loc2":"Chattanooga, TN 37421",
+        "img":"https://diamondsdirect.com/mm-images/frisco-detail-pynoei1v.jpeg?width=768"
+      },
+      {
+        "key":"15",
+        "label":"Cherry Hill, NJ",
+        "loc1":"2135 Route 38",
+        "loc2":"Cherry Hill, NJ 08002",
+        "img":"https://diamondsdirect.com/mm-images/houston-baybrook-detail-img-u3p8tssm.jpeg?width=768"
+      },
+      {
+        "key":"16",
+        "label":"Chesterfield, MO",
+        "loc1":"49 Chesterfield Mall",
+        "loc2":"Chesterfield, MO 63017",
+        "img":"https://diamondsdirect.com/mm-images/houston-baybrook-detail-img-u3p8tssm.jpeg?width=768"
+      },
+      {
+        "key":"17",
+        "label":"Chicago, IL",
+        "loc1":"900 N. Michigan Ave",
+        "loc2":"Chicago, IL 60611",
+        "img":"https://diamondsdirect.com/mm-images/indianapolis-detail-img-k108bcao.jpeg?width=768"
+      },
+      {
+        "key":"18",
+        "label":"Cincinnati, OH",
+        "loc1":"7875 Montgomery Road",
+        "loc2":"Cincinnati, OH 45236",
+        "img":"https://diamondsdirect.com/mm-images/indianapolis-detail-img-k108bcao.jpeg?width=768"
+      },
+      {
+        "key":"19",
+        "label":"Columbia, MD",
+        "loc1":"10300 Little Patuxent Pkwy",
+        "loc2":"Columbia, MD 21044",
+        "img":"https://diamondsdirect.com/mm-images/indianapolis-detail-img-k108bcao.jpeg?width=768"
+      },
+      {
+        "key":"20",
+        "label":"Columbus, OH",
+        "loc1":"4159 Worth Avenue",
+        "loc2":"Columbus, OH 43219",
+        "img":"https://diamondsdirect.com/mm-images/milwaukee-skyline-elrj27f7.jpg?width=768"
+      },
+      {
+        "key":"21",
+        "label":"Coral Gables, FL",
+        "loc1":"358 San Lorenzo Ave",
+        "loc2":"Coral Gables, FL 33146",
+        "img":"https://diamondsdirect.com/mm-images/new-orleans-detail-hqfd2bjx.jpeg?width=768"
+      },
+      {
+        "key":"22",
+        "label":"Corte Madera, CA",
+        "loc1":"1870 Redwood Hwy",
+        "loc2":"Corte Madera, CA 94925",
+        "img":"https://diamondsdirect.com/mm-images/new-orleans-detail-hqfd2bjx.jpeg?width=768"
+      },
+      {
+        "key":"23",
+        "label":"Cranston, RI",
+        "loc1":"4000 Chapel View Blvd",
+        "loc2":"Cranston, RI 02920",
+        "img":"https://diamondsdirect.com/mm-images/pitssburg-detail-sljbctrv.jpeg?width=768"
+      },
+      {
+        "key":"24",
+        "label":"Dallas, TX",
+        "loc1":"8687 N. Central Expressway",
+        "loc2":"Dallas, TX 75225",
+        "img":"https://diamondsdirect.com/mm-images/pitssburg-detail-sljbctrv.jpeg?width=768"
+      },
+      {
+        "key":"25",
+        "label":"Daly City, CA",
+        "loc1":"25 Serramonte Center",
+        "loc2":"Daly City, CA 94015",
+        "img":"https://diamondsdirect.com/mm-images/pitssburg-detail-sljbctrv.jpeg?width=768"
+      },
+      {
+        "key":"26",
+        "label":"Denver, CO",
+        "loc1":"3000 E. 1st Ave",
+        "loc2":"Denver, CO 80206",
+        "img":"https://diamondsdirect.com/mm-images/raleigh-detail-er5w3s5l.jpeg?width=768"
+      },
+      {
+        "key":"27",
+        "label":"Des Moines, IA",
+        "loc1":"101 Jordan Creek Pkwy",
+        "loc2":"Des Moines",
+        "img":"https://diamondsdirect.com/mm-images/raleigh-detail-er5w3s5l.jpeg?width=768"
+      },
+      {
+        "key":"28",
+        "label":"Dulles, VA",
+        "loc1":"21100 Dulles Town Circle",
+        "loc2":"Dulles, VA 20166",
+        "img":"https://diamondsdirect.com/mm-images/richmond-detail-ujn3mx0u.jpeg?width=768"
+      }
+    ]
+}
+}

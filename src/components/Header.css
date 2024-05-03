@@ -1,0 +1,46 @@
+/* Header.css */
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.nav::after {
+  content: "";
+  background-color: purple;
+  height: 3px;
+  width: 0%;
+  position: absolute;
+  left:0;
+  bottom: -5px; /* Adjust this value to position the underline properly */
+  transition: width 0.3s ease;
+}
+
+.nav:hover::after {
+  width: 100%;
+  color:purple;
+}
+.nav:hover
+{
+    color:purple;
+}
+.w8:hover {
+    fill:aqua;
+  
+  }
+  .icon-container {
+    position: relative; /* Ensure the container is positioned */
+}
+
+.icon-container:hover {
+    filter: drop-shadow(0 0px 0.6px purple); /* Apply shadow on hover */
+}
+.icon-container {
+    position: relative;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000; /* Ensure it stays on top of other content */
+}

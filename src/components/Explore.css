@@ -1,0 +1,13 @@
+.container {
+    position: relative;
+    overflow: hidden;
+  }
+  
+  .image-container {
+    transition: transform 0.5s ease; /* Only need transition for transform */
+  }
+  
+  .container:hover .image-container {
+    transform: scale(1.05);
+  }
+ 

@@ -1,0 +1,186 @@
+body {
+    margin: 0;
+  }
+  
+  .wrapper {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+  }
+  
+  .loader {
+    display: block;
+    width: 38px;
+    height: 38px;
+    transform: rotate(-45deg);
+  }
+  
+  .loader div {
+    display: block;
+    width: 18px;
+    height: 18px;
+    background: #1c0c33;
+    position: absolute;
+  }
+  
+  .loader div:nth-child(1){
+    top: 0;
+    left: 0;
+    animation: move1 1.2s ease-in-out infinite;
+  }
+  
+  .loader div:nth-child(2){
+    top: 0;
+    left: 20px;
+    animation: move2 1.2s ease-in-out infinite;
+  }
+  
+  .loader div:nth-child(3){
+    top: 20px;
+    left: 20px;
+    animation: move3 1.2s ease-in-out infinite;
+  }
+  
+  .loader div:nth-child(4){
+    top: 20px;
+    left: 0;
+    animation: move4 1.2s ease-in-out infinite;
+  }
+  
+  .title p {
+    font-family: 'Arial';
+    text-transform: uppercase;
+    margin-top: 20px;
+    letter-spacing: 5px;
+    font-size: 12px;
+  }
+  
+  /* Animations */
+  @keyframes move1 {
+    18.75% {
+      width: 6px;
+      height: 6px;
+      margin-top: 12px;
+      margin-left: 12px;
+    }
+    43.75% {
+      width: 6px;
+      height: 6px;
+      margin-top: 12px;
+      margin-left: 12px;
+    }
+    68.75% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    100% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+  }
+  
+  @keyframes move2 {
+    6.25% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0px;
+      margin-left: 0px;
+    }
+    25% {
+      width: 6px;
+      height: 6px;
+      margin-top: 12px;
+      margin-left: 0px;
+    }
+    43.75% {
+      width: 6px;
+      height: 6px;
+      margin-top: 12px;
+      margin-left: 0;
+    }
+    56.25% {
+      width: 6px;
+      height: 6px;
+      margin-top: 12px;
+      margin-left: 0;
+    }
+    75% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+  }
+  
+  @keyframes move3 {
+    12.5% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    31.25% {
+      width: 6px;
+      height: 6px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    43.75% {
+      width: 6px;
+      height: 6px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    56.25% {
+      width: 6px;
+      height: 6px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    81.25% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+  }
+  
+  @keyframes move4 {
+    18.75% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+    37.5% {
+      width: 6px;
+      height: 6px;
+      margin-top: 0;
+      margin-left: 12px;
+    }
+    43.75% {
+      width: 6px;
+      height: 6px;
+      margin-top: 0;
+      margin-left: 12px;
+    }
+    62.5% {
+      width: 6px;
+      height: 6px;
+      margin-top: 0;
+      margin-left: 12px;
+    }
+    87.5% {
+      width: 18px;
+      height: 18px;
+      margin-top: 0;
+      margin-left: 0;
+    }
+  }
