@@ -1,7 +1,8 @@
 # Team-Diamonds
-<div style="text-align:center; border: 1px solid black; padding: 5px;">
+<div style="text-align:center; border: 1px solid black; padding: 6px;">
     <img src="https://s26.q4cdn.com/755441662/files/images/our_brands/DDtag_black.png" alt="picture" alt="picture" width="700"/>
 </div>
+
 
 
 __Welcome to the realm of Diamonds, where brilliance is meticulously crafted and elegance is born.__
@@ -20,7 +21,7 @@ __Welcome to the realm of Diamonds, where brilliance is meticulously crafted and
 1.Project Preview:
 Released by team member Mridul at 10:08 PM IST on May 3, 2024.
 
-2. Version 1 Release:
+2.Version 1 Release:
 Branch1 and Tag1 named version1 released by team member Mishthy Sharma at 12:18 AM IST on May 4, 2024.
 
 3.Version 2 Release:
