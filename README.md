@@ -19,7 +19,9 @@ __Welcome to the realm of Diamonds, where brilliance is meticulously crafted and
 
 # Project Details:
 Our Project preview has been released by team member Mridul at 10:08pm IST(03-05-2024).
+
 branch1 and tag1 named version1 has been released by team member Mishthy Sharma at 12:18am IST(04-05-2024).
+
 branch2 and tag2 named version2 has been released by team member Mridul at 1:20pm IST(04-05-2024).
 
 # Table of Content:
