@@ -18,6 +18,8 @@ __Welcome to the realm of Diamonds, where brilliance is meticulously crafted and
 
 3. Mehakpreet Singh (2310990738)
 
+Timeline of Releases
+
 1.Project Preview:
 Released by team member Mridul at 10:08 PM IST on May 3, 2024.
 
