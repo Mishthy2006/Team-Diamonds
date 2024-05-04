@@ -1,5 +1,5 @@
 # Team-Diamonds
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrCHU3UIBr131y7fm4Q0GrdK6P27NRlkWW1Pq3tuazY0NgoWhGvjC0j2Oxjg4Jr_F2pE&usqp=CAU" alt="picture" width="500"/>
+<img src="C:\Users\DELL\Pictures\dream2.jpg" alt="picture" width="500"/>
 
 
 __Welcome to the realm of Diamonds, where brilliance is meticulously crafted and elegance is born.__
