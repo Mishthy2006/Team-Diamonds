@@ -17,19 +17,19 @@ __Welcome to the realm of Diamonds, where brilliance is meticulously crafted and
 
 3. Mehakpreet Singh (2310990738)
 
-# Project Details:
-Our Project preview has been released by team member Mridul at 10:08pm IST(03-05-2024).
-
-branch1 and tag1 named version1 has been released by team member Mishthy Sharma at 12:18am IST(04-05-2024).
-
-branch2 and tag2 named version2 has been released by team member Mridul at 1:20pm IST(04-05-2024).
+1.Project Preview:
+Released by team member Mridul at 10:08 PM IST on May 3, 2024.
+2. Version 1 Release:
+Branch1 and Tag1 named version1 released by team member Mishthy Sharma at 12:18 AM IST on May 4, 2024.
+3.Version 2 Release:
+Branch2 and Tag2 named version2 released by team member Mridul at 1:20 PM IST on May 4, 2024..
 
 # Table of Content:
 
-| Sr No.| File Name | Features | At which time file has been pushed | Time at which Merge and pull request has been done | Deadline of the commits | Done by which team member|
+| Sr No.| File Name | Features | Pushed at| Merged and pull request at |Deadline for commits | Done by |
 |-------|-----------|------------|------------------------------|-------------------------|-----------------------------|----------|
-| 1| Cart.js | It shows Add to Cart functionality| At 12:18am| At 12:28am| Till 1:00am| By Mishthy Sharma|
-| 2| signin.js | Added a signin functionality on our website page| At 1:20pm| At 1:30pm| Till 2:00pm| By Mridul|
+| 1| Cart.js | Displays Add to Cart functionality|  12:18am|  12:28am| Until 1:00am|  Mishthy Sharma|
+| 2| signin.js | Added sign-in functionality on our website page|  1:20pm| 1:30pm| Until 2:00pm|  Mridul|
 
 
 
