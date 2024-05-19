@@ -34,11 +34,11 @@ Branch4 and Tag3 named version3 released by team member Mehakpreet Singh at 1:56
 
 # Table of Content:
 
-| Sr No.| File Name | Features | Pushed on Date |Deadline for commits | Done by |
+| Sr No.| File Name | Features | Pushed on |Deadline for commits | Done by |
 |-------|-----------|-------------|-------------------------|------------------------|----------|
-| 1| Cart.js | Displays Add to Cart functionality| 4th May,2024| Until 1:00 am|  Mishthy Sharma|
-| 2| signin.js | Added sign-in functionality on our website page| 4th May,2024| Until 2:00 pm|  Mridul|
-| 3| index.html| Added a Chatbot in our website| 5th May,2024| Until 2:00 pm| Mehakpreet Singh|
+| 1| Cart.js | Displays Add to Cart functionality| 4th May,2024| Until 1:00 am (on 4th May,2024)|  Mishthy Sharma|
+| 2| signin.js | Added sign-in functionality on our website page| 4th May,2024| Until 2:00 pm (on 4th May,2024)|  Mridul|
+| 3| index.html| Added a Chatbot in our website| 5th May,2024| Until 2:00 pm (on 5th May,2024)| Mehakpreet Singh|
 
 
 
